@@ -8,6 +8,6 @@
 
 - 🌱 I’m currently learning **Flutter**.
 
-- 💬 Ask me about anything you want of my projects.
+- 💬 Ask me about anything .
 
 - 📫 How to reach me **mustafa.abdullayev1.std@bhos.edu.az**
