@@ -6,6 +6,6 @@
 
 - 🌱 I’m currently learning **Flutter**.
 
-- 💬 Ask me about anything .
+- 💬 Ask me about anything related to Django,Django Rest Framework,Selenium and so on  .
 
 - 📫 How to reach me **mustafa.abdullayev1.std@bhos.edu.az**
